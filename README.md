@@ -31,6 +31,9 @@ For Camera Check:-
 For Capturing Image:-
 
 
+![project_2](https://user-images.githubusercontent.com/100351890/170853621-11d20686-770b-4b6a-8f2c-d29278d929ec.JPG)
+
+
 TrainingImage Folder:-
 Recognize and Attendance:-
 
