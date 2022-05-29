@@ -23,10 +23,14 @@ Project Structure:-
 Screenshots:-
 
 For Camera Check:-
+
+
 ![project_1](https://user-images.githubusercontent.com/100351890/170853476-d03cd05c-f7ee-4752-94f0-3e73aa63eb01.JPG)
 
 
 For Capturing Image:-
+
+
 TrainingImage Folder:-
 Recognize and Attendance:-
 
